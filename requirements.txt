@@ -1,2 +1,2 @@
-pillow~=9.4.0
-pyside6~=6.4.0
+pillow
+pyside6
